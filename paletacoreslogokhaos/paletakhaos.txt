@@ -1,0 +1,5 @@
+#1B8C81 Azul escuro
+#88F2E8 Azul claro
+#730202 Vermelho
+#400101 Vinho
+#F28585 Rosa
